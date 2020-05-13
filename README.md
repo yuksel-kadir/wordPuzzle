@@ -18,4 +18,4 @@ Her doğru tahmin için harf başına oyuncuya 5 puan eklenir. Yanlış tahmin i
 Butona basıldığında tahmin etmede kullanılan harf butonlarının yeri değişir.
 
 ## Kelime Tahmin Etme
-Herhangi bir butona basıldığında parmağı kaldırmadan diğer harfe gidilerek tahmin kelimesi oluşturulur. Parmağı kaldırdıktan sonra tahminin doğru olup olmadığı kontrol edilir.
+Herhangi bir harf butonuna basıldığında parmağı kaldırmadan diğer harfe gidilerek tahmin kelimesi oluşturulur. Parmağı kaldırdıktan sonra tahminin doğru olup olmadığı kontrol edilir.
