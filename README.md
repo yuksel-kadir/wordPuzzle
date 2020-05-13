@@ -25,6 +25,9 @@ Herhangi bir harf butonuna basıldığında parmağı kaldırmadan diğer harfe 
 ## Proje Dökümanı
 [Döküman](https://www.dropbox.com/s/ttixepac5u4g4ta/YAZLAB2_PROJE2.pdf?dl=0)
 
+## Proje APK Linki
+[APK](https://www.dropbox.com/s/2fm0dh7xluepwid/yazlab3_2.apk?dl=0)
+
 ## Ekran Görüntüleri
 ###### Ana Menü
 ![menu1](ss/menu.png)
