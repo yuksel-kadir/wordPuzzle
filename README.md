@@ -26,37 +26,25 @@ Herhangi bir harf butonuna basıldığında parmağı kaldırmadan diğer harfe 
 <br>
 
 ###### Puan Tablosu
-<br>
-
 ![scoreBoard](ss/scoreBoard.png)
 <br>
 
 ###### Seviye Menüsü
-<br>
-
 ![menu2](ss/menu2.png)
 <br>
 
 ###### 1.Seviye Bulmaca
-<br>
-
 ![puzz](ss/puzz.png)
 <br>
 
 ###### 2.Seviye Bulmaca
-<br>
-
 ![puzz](ss/puzz2.png)
 <br>
 
 ###### 3.Seviye Bulmaca
-<br>
-
 ![puzz](ss/puzz3.png)
 <br>
 
 ###### Örnek Tahminli Bulmaca
-<br>
-
 ![puzz](ss/puzz4.png)
 <br>
