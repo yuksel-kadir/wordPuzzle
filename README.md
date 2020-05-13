@@ -9,7 +9,9 @@ Oyun 3 seviyeden oluşuyor.
 - 2.seviyede 4 harften oluşan kelimeler,
 - 3.seviyede 5 ve üzeri harften oluşan kelimeler bulunuyor.
 
-**Her seviyenin kendine ait 6 tane bölümü var. Oyunda toplamda 18 tane bulmaca bulunmakta.**
+**Her seviyenin kendine ait 6 tane bölümü var. Oyunda toplamda 18 tane bulmaca bulunmakta.** <br>
+**Seviyelerdeki bölümler oyuncuya rastgele sırada verilir.** <br>
+**Ekranın alt kısmında bulunan, kelime oluşturmak için kullanılan harfler rastgele bir sırada yerleştirilir. Yani harf butonları bölümler yüklendiğinde dinamik olarak yerleşir.** <br>
 
 ## Puanlama
 Her doğru tahmin için harf başına oyuncuya 5 puan eklenir. Yanlış tahmin için her harf başına -1 puan verilir. Bölüm bittiğinde geçen zamanın yarısı eksi puan olarak eklenir ve seçilen seviyedeki, çözülen bölüm için toplam puan oluşur.
