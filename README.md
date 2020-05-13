@@ -21,3 +21,5 @@ Butona basıldığında tahmin etmede kullanılan harf butonlarının yeri deği
 Herhangi bir harf butonuna basıldığında parmağı kaldırmadan diğer harfe gidilerek tahmin kelimesi oluşturulur. Parmağı kaldırdıktan sonra tahminin doğru olup olmadığı kontrol edilir.
 
 ## Ekran Görüntüleri
+![menu1](assets/ss/menu.png)
+![menu2](assets/ss/menu2.png)
