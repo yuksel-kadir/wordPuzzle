@@ -20,6 +20,9 @@ Butona basıldığında tahmin etmede kullanılan harf butonlarının yeri deği
 ## Kelime Tahmin Etme
 Herhangi bir harf butonuna basıldığında parmağı kaldırmadan diğer harfe gidilerek tahmin kelimesi oluşturulur. Parmağı kaldırdıktan sonra tahminin doğru olup olmadığı kontrol edilir.
 
+## Proje Dökümanı
+[Döküman](https://www.dropbox.com/s/ttixepac5u4g4ta/YAZLAB2_PROJE2.pdf?dl=0)
+
 ## Ekran Görüntüleri
 ###### Ana Menü
 ![menu1](ss/menu.png)
