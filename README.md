@@ -20,19 +20,34 @@ Butona basıldığında tahmin etmede kullanılan harf butonlarının yeri deği
 ## Kelime Tahmin Etme
 Herhangi bir harf butonuna basıldığında parmağı kaldırmadan diğer harfe gidilerek tahmin kelimesi oluşturulur. Parmağı kaldırdıktan sonra tahminin doğru olup olmadığı kontrol edilir.
 
+## Proje Dökümanı
+[Döküman](https://www.dropbox.com/s/ttixepac5u4g4ta/YAZLAB2_PROJE2.pdf?dl=0)
+
 ## Ekran Görüntüleri
 ###### Ana Menü
 ![menu1](ss/menu.png)
 <br>
 
 ###### Puan Tablosu
-<br>
-
 ![scoreBoard](ss/scoreBoard.png)
 <br>
 
 ###### Seviye Menüsü
+![menu2](ss/menu2.png)
 <br>
 
-![menu2](ss/menu2.png)
+###### 1.Seviye Bulmaca
+![puzz](ss/puzz.png)
+<br>
+
+###### 2.Seviye Bulmaca
+![puzz](ss/puzz2.png)
+<br>
+
+###### 3.Seviye Bulmaca
+![puzz](ss/puzz3.png)
+<br>
+
+###### Örnek Tahminli Bulmaca
+![puzz](ss/puzz4.png)
 <br>
